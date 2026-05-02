@@ -1,3 +1,9 @@
 title: Life in Data
-description: Data Analytics projects
-theme: jekyll-theme-minimal
+description: Data analytics projects, technical notes, and insights
+remote_theme: hydecorp/hydejack@v9.0.3
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: Mauricio Ruiz Mieles
