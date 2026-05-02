@@ -1,10 +1,11 @@
-title: Life in Data
-description: Home to my persona data analytics projects, technical notes, and insights
-remote_theme: hydecorp/hydejack@v9.0.3
+url: "https://ruizmielesmauricio.github.io"
 
-plugins:
-  - jekyll-include-cache
+accent_color: "#4f46e5"   # nice modern purple (you can change later)
 
-author:
-  name: Mauricio Ruiz Mieles
-  picture: /assets/img/lifeindata.png
+menu:
+  - title: About
+    url: /about/
+  - title: Machine Learning
+    url: /machine-learning/
+  - title: Business Intelligence
+    url: /business-intelligence/
