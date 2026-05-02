@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Welcome to Life in Data"
+categories: [machine-learning]
+
 ---
 
 This blog will share short articles about my data analytics projects, including key findings, technical methods, and links to full GitHub repositories.
