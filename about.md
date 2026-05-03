@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 # Professional Skills
 I’m a data-driven professional with a strong foundation in both communication and analytics. I hold a Bachelor’s degree in Social Communication and a First Class Honours degree in Data Analysis, combining storytelling with technical expertise to turn data into meaningful insights.
 
