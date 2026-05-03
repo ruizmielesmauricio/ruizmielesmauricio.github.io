@@ -37,7 +37,7 @@ Variance was also checked to understand which features will be more important to
 In order to avoid multicollinearity correlations were studied ending on dropping four features that had high correlation with other 4 features. This was done to avoid feeding redundant data to the models. 
 Some outliers were identified in the EDA process and were treated using Log Transformation and Winsorization. 
 Finally, as some models are sensitive to different scales or magnitudes. Z Score was used to scale three features making sure that all features contribute in the same scale. This transformation was only done for the dataset used in the non tree decision models. 
-The data was imbalanced after checking the distribution of the target variable. More false positives were found in the dataset than confirmed or potential exoplanets. This could lead to have a biased model so Synthetic Minority Over-sampling Technique (SMOTE) was used to avoid this problem but it was only applied to the dataset used for distance models (KNN, SVM, MLP). INSERT THE FIGURE IN THE REPORT
+The data was imbalanced after checking the distribution of the target variable. More false positives were found in the dataset than confirmed or potential exoplanets. This could lead to have a biased model so Synthetic Minority Over-sampling Technique (SMOTE) was used to avoid this problem but it was only applied to the dataset used for distance models (KNN, SVM, MLP).
 
 ### Feature Engineering: 
 Three new features were introduced to the dataset:
@@ -50,7 +50,7 @@ Duration Ratio: It was calculated the proportion of the duration of the transit 
 
 ## Results: 
 
-All models were trainee using a partition 80/20 (80% training- 20% testing). 
+All models were trained using a partition 80/20 (80% training- 20% testing). 
 
 
 ### By model
@@ -71,7 +71,7 @@ Prediction Results: Using a confusion matrix, it is possible to identify the tot
 
 #### KNN:
 
-Prediction Results: Using a confusion matrix, it is possible to identify the total of correct results (figure 18). It is shown that the model has high accuracy at predicting false positives and confirmed exoplanetsbut struggles predicting candidates (class 1) accurately. This supports the F1-Score results that the model is accurate predicting correctly the three classes. The model can clearly differ between false positives and confirmed. KNN captured confirmed planet accurately but its accuracy for class 2 (confirmed) is lower than the previous models. 
+Prediction Results: Using a confusion matrix, it is possible to identify the total of correct results (figure 18). It is shown that the model has high accuracy at predicting false positives and confirmed exoplanets but struggles predicting candidates (class 1) accurately. This supports the F1-Score results that the model is accurate predicting correctly the three classes. The model can clearly differ between false positives and confirmed. KNN captured confirmed planet accurately but its accuracy for class 2 (confirmed) is lower than the previous models. 
 ![Confusion Matrix](https://raw.githubusercontent.com/ruizmielesmauricio/exoplanets-ml/refs/heads/main/Results/cm_knn.png)
 
 #### MLP:
