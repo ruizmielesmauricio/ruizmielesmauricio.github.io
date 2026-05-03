@@ -57,7 +57,7 @@ All models were trainee using a partition 80/20 (80% training- 20% testing).
 
 #### XGBoost:
  Prediction Results: Using a confusion matrix, it is possible to identify the total of correct results (figure 12). It is shown that the model has high accuracy at predicting false positives and confirmed exoplanets. This supports the F1-Score results that the model is accurate predicting correctly the three classes. The model can clearly differ between false positives and confirmed.
-![Confusion Matrix](![Confusion Matrix](https://raw.githubusercontent.com/ruizmielesmauricio/exoplanets-ml/98d4584e6c782548ec9b7445bdde6491b69e82c6/Results/cm_xgboost.png))
+![Confusion Matrix](https://raw.githubusercontent.com/ruizmielesmauricio/exoplanets-ml/refs/heads/main/Results/cm_xgboost.png)
 
 #### Random Forest:
 
