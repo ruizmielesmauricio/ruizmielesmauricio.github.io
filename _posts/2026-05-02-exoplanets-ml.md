@@ -62,22 +62,22 @@ All models were trainee using a partition 80/20 (80% training- 20% testing).
 #### Random Forest:
 
 Prediction Results: Using a confusion matrix, it is possible to identify the total of correct results (figure 14). It is shown that the model has high accuracy at predicting false positives and confirmed exoplanets. This supports the F1-Score results that the model is accurate predicting correctly the three classes. The model can clearly differ between false positives and confirmed.
-![Confusion Matrix](https://github.com/ruizmielesmauricio/exoplanets-ml/blob/98d4584e6c782548ec9b7445bdde6491b69e82c6/Results/cm_random_forest.png)
+![Confusion Matrix](https://raw.githubusercontent.com/ruizmielesmauricio/exoplanets-ml/refs/heads/main/Results/cm_random_forest.png)
 
 #### SVM:
 
 Prediction Results: Using a confusion matrix, it is possible to identify the total of correct results (figure 16). It is shown that the model has high accuracy at predicting false positives and confirmed exoplanets. This supports the F1-Score results that the model is accurate predicting correctly the three classes. The model can clearly differ between false positives and confirmed.
-![Confusion Matrix](https://github.com/ruizmielesmauricio/exoplanets-ml/blob/98d4584e6c782548ec9b7445bdde6491b69e82c6/Results/cm_svm.png)
+![Confusion Matrix](https://raw.githubusercontent.com/ruizmielesmauricio/exoplanets-ml/refs/heads/main/Results/cm_svm.png)
 
 #### KNN:
 
 Prediction Results: Using a confusion matrix, it is possible to identify the total of correct results (figure 18). It is shown that the model has high accuracy at predicting false positives and confirmed exoplanetsbut struggles predicting candidates (class 1) accurately. This supports the F1-Score results that the model is accurate predicting correctly the three classes. The model can clearly differ between false positives and confirmed. KNN captured confirmed planet accurately but its accuracy for class 2 (confirmed) is lower than the previous models. 
-![Confusion Matrix](https://github.com/ruizmielesmauricio/exoplanets-ml/blob/98d4584e6c782548ec9b7445bdde6491b69e82c6/Results/cm_knn.png)
+![Confusion Matrix](https://raw.githubusercontent.com/ruizmielesmauricio/exoplanets-ml/refs/heads/main/Results/cm_knn.png)
 
 #### MLP:
 
 Prediction Results: Using a confusion matrix, it is possible to identify the total of correct results (figure 20). It is shown that the model has high accuracy at predicting false positives and confirmed exoplanets but struggles predicting candidates (class 1) accurately. This supports the F1-Score results that the model is accurate predicting correctly the three classes. The model can clearly differ between false positives and confirmed. MLP captured confirmed planet accurately but its accuracy for class 2 (confirmed) is the lowest of all the previous models.  
-![Confusion Matrix](https://github.com/ruizmielesmauricio/exoplanets-ml/blob/98d4584e6c782548ec9b7445bdde6491b69e82c6/Results/cm_mlp.png)
+![Confusion Matrix](https://raw.githubusercontent.com/ruizmielesmauricio/exoplanets-ml/refs/heads/main/Results/cm_mlp.png)
 
 ### Overall: 
 
