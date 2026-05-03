@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Life in Data"
-categories: [Machine-Learning]
+categories: [machine-learning]
 
 ---
 
