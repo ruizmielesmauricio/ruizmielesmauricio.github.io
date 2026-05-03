@@ -1,6 +1,18 @@
+title: Life in Data
+description: Home to my personal data analytics projects, technical notes, and insights
 url: "https://ruizmielesmauricio.github.io"
 
-accent_color: "#4f46e5"   # nice modern purple (you can change later)
+remote_theme: hydecorp/hydejack@v9.0.3
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+accent_color: "#4f46e5"
+
+author:
+  name: Mauricio Ruiz Mieles
+  picture: /assets/img/lifeindata.png
 
 menu:
   - title: About
