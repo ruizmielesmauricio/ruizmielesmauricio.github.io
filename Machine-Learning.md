@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Machine Learning
+permalink: /machine-learning/
 ---
 
 # Machine Learning
