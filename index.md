@@ -3,6 +3,7 @@ layout: page
 title: Life in Data
 ---
 
+# Life in Data
 
 Welcome to my data analytics portfolio.
 
@@ -23,6 +24,14 @@ Here I share short articles about data analytics projects, technical methods, an
     <p style="font-size: 0.9rem; color: #666;">
       {{ post.date | date: "%d %B %Y" }}
     </p>
+
+    {% if post.categories %}
+      <p style="font-size: 0.85rem;">
+        {% for category in post.categories %}
+          {{ category }}
+        {% endfor %}
+      </p>
+    {% endif %}
 
     <p>
       {{ post.excerpt | strip_html | truncate: 140 }}
