@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exoplanets: Training classification ML models"
-categories: [machine-learning]
+categories: [Machine Learning]
 image: /assets/img/exoplanets.jpg
 ---
 
