@@ -1,9 +1,17 @@
+-> !--! ADD TO THE config file
+
+title: Name shown in the menu
+url: (here goes the .md file)
+
+-----
+
+-> !--! CREATE AN .md FILE with the name of the category - Include the 3 dash as below:
 ---
 layout: page
 title: Business Intelligence
 ---
 
--- LOOK FOR THE CATEGORY WHERE POST WILL BE INCLUDED IN ---- REPLACE BUSINESS INTELLIGENCE with the correct category 
+-> !--! LOOK FOR THE CATEGORY WHERE POST WILL BE INCLUDED IN ---- REPLACE BUSINESS INTELLIGENCE with the correct category 
 {% for post in site.categories["Business Intelligence"] %} 
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%d %B %Y" }}
 {% endfor %}
