@@ -85,3 +85,5 @@ The tree-based models achieved the most accurate results overall, showing a more
 Models’ optimization: Hyperparameter tuning can be optimized by implementing other tools which could lead to improve accuracy, robustness and more confident decisions.
 
 For a more technical report please [click here](https://github.com/ruizmielesmauricio/exoplanets-ml/blob/98d4584e6c782548ec9b7445bdde6491b69e82c6/Results/Mauricio_Ruiz_Report.pdf.pdf) - [Full REPO](https://github.com/ruizmielesmauricio/exoplanets-ml/)
+
+{% include share.html %}
