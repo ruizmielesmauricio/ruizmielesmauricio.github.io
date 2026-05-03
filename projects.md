@@ -5,4 +5,4 @@ permalink: /projects/
 ---
 
 Please find a list of all the projects I have worked on
-[here](https://ruizmielesmauricio.github.io/mauricio-s_portfolio/).
+[here](https://ruizmielesmauricio.github.io/mauricio-s_portfolio).
