@@ -13,6 +13,7 @@ accent_color: "#4f46e5"
 author:
   name: Mauricio Ruiz Mieles
   picture: /assets/img/lifeindata.png
+  logo: /assets/img/lifeindata.png
 
 menu:
   - title: About
