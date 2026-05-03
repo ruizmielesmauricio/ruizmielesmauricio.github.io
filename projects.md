@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio/
+permalink: /projects/
 ---
 
 Please find a list of all the projects I have worked on here
