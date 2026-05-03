@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: page
 title: Life in Data
 ---
 
