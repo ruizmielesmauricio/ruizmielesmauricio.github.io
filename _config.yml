@@ -10,10 +10,11 @@ plugins:
 
 accent_color: "#4f46e5"
 
+logo: /assets/img/lifeindata.png
+
 author:
   name: Mauricio Ruiz Mieles
   picture: /assets/img/lifeindata.png
-  logo: /assets/img/lifeindata.png
 
 menu:
   - title: About
