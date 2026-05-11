@@ -2,7 +2,7 @@
 layout: post
 title: "Schuldiner's Numbers: I Built a Data Dashboard for Death's Entire Discography"
 categories: [Business Intelligence]
-image: /assets/img/exoplanets.jpg
+image: /assets/img/death.png
 ---
 # 
 May 13th is Chuck Schuldiner's birthday. And if you know, you know — Chuck wasn't just a musician. He was the architect of an entire genre, the guy who almost single-handedly dragged metal into places it had never been before. So this year, instead of just putting on Symbolic and staring at the ceiling (which I also did), I built something: a fully interactive analytics dashboard covering Death's complete studio discography. Consider it a love letter written in Python.
