@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Exoplanets: Training classification ML models"
-categories: [Machine Learning]
+title: "Schuldiner's Numbers: I Built a Data Dashboard for Death's Entire Discography"
+categories: [Business Intelligence]
 image: /assets/img/exoplanets.jpg
 ---
-# Schuldiner's Numbers: I Built a Data Dashboard for Death's Entire Discography
+# 
 May 13th is Chuck Schuldiner's birthday. And if you know, you know — Chuck wasn't just a musician. He was the architect of an entire genre, the guy who almost single-handedly dragged metal into places it had never been before. So this year, instead of just putting on Symbolic and staring at the ceiling (which I also did), I built something: a fully interactive analytics dashboard covering Death's complete studio discography. Consider it a love letter written in Python.
 
 The project started simple enough — pull some data, make some charts, feel good about it. But anyone who's worked with music APIs knows they have a personality of their own. Between Spotify, Last.fm, MusicBrainz, and AcousticBrainz, I was juggling four different sources, each with their own quirks, gaps, and opinions on what counts as an "official release." Remastered editions pretending to be originals. Compilation tracks sneaking into tracklists. I had to build custom cleaning logic just to keep things honest. The rule was simple: 7 studio albums, 62 songs, nothing else. No compilations, no demos, no bonus disc filler. Just the canon — from Scream Bloody Gore (1987) all the way to The Sound of Perseverance (1998).
