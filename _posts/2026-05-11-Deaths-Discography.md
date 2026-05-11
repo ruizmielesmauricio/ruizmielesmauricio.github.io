@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schuldiner's Numbers: I Built a Data Dashboard for Death's Entire Discography"
-categories: [Business Intelligence]
+categories: [business-intelligence]
 image: /assets/img/death.png
 ---
 ### [Dashboard Link](https://deathdiscography-h9p46woir6f86utjcw2ikh.streamlit.app)
