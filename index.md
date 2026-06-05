@@ -2,6 +2,24 @@
 layout: page
 title: Life in Data
 ---
+## Ask My AI Portfolio Assistant
+
+<section style="margin-top: 40px; width: 100%;">
+
+  <p>
+    Ask questions about my experience, projects, skills, education, and data analytics work.
+  </p>
+
+  <iframe
+    src="https://mauricio-ai-cv-assistant.streamlit.app/?embed=true"
+    style="width: 100%; min-height: 900px; border: 1px solid #ddd; border-radius: 12px; background: white;"
+    frameborder="0"
+    scrolling="yes">
+  </iframe>
+</section>
+
+
+---
 
 Welcome to my data analytics portfolio.
 
