@@ -2,28 +2,11 @@
 layout: page
 title: Life in Data
 ---
-## Ask My AI Portfolio Assistant
+{% include portfolio-callout.html %}
 
-<section style="margin-top: 40px; width: 100%;">
+Welcome to Life in Data.
 
-  <p>
-    Ask questions about my experience, projects, skills, education, and data analytics work.
-  </p>
-
-  <iframe
-    src="https://mauricio-ai-cv-assistant.streamlit.app/?embed=true"
-    style="width: 100%; min-height: 900px; border: 1px solid #ddd; border-radius: 12px; background: white;"
-    frameborder="0"
-    scrolling="yes">
-  </iframe>
-</section>
-
-
----
-
-Welcome to my data analytics portfolio.
-
-Here I share short articles about data analytics projects, technical methods, and key findings.
+Stories and technical notes at the intersection of data, curiosity and real-world questions.
 
 ---
 
@@ -60,3 +43,6 @@ Here I share short articles about data analytics projects, technical methods, an
 {% endfor %}
 
 </div>
+
+
+{% include portfolio-assistant.html %}

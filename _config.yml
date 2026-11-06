@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-accent_color: "#4f46e5"
+accent_color: "#00776f"
 
 logo: /assets/img/lifeindata.png
 
