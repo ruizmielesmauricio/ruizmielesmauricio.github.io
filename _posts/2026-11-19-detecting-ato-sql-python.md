@@ -4,7 +4,7 @@ title: "Read the Warning Flags: Detecting ATO with SQL and Python"
 date: 2026-11-19
 categories: [Data Analytics, Fraud Detection]
 tags: [SQL, Python, Cybersecurity, Account Takeover]
-image: /assets/img/ato/ato-cover.svg
+image: /assets/img/ato-cover.svg
 description: "A practical account takeover investigation walkthrough using SQL event analysis and transparent Python risk scoring."
 ---
 
@@ -42,7 +42,7 @@ This give us a useful baseline to understand what features we need look at in th
 
 ## How do accounts get compromised?
 
-![Illustrative account takeover sequence: credential exposure, unexpected login, account changes, investigation]({{ "/assets/img/ato/attack-chain.svg" | relative_url }})
+![Illustrative account takeover sequence: credential exposure, unexpected login, account changes, investigation]({{ "/assets/img/attack-chain.svg" | relative_url }})
 
 *Figure: One possible account takeover sequence. Signals do not establish fraud on their own.*
 
@@ -84,7 +84,7 @@ Knowing all this, we can use SQL and Python to create automated tools that can k
 
 The model should deploy the following
 
-![ATO detection pipeline: events are processed by SQL, evaluated with Python and reviewed by investigators]({{ "/assets/img/ato/detection-pipeline.svg" | relative_url }})
+![ATO detection pipeline: events are processed by SQL, evaluated with Python and reviewed by investigators]({{ "/assets/img/detection-pipeline.svg" | relative_url }})
 
 *Figure: Educational rule-based ATO investigation workflow.*
 
