@@ -409,20 +409,20 @@ The complete educational SQL and Python implementation, feature dictionary, rule
 
 ## References and further reading
 
-1. https://docs.stripe.com/issuing/manage-fraud
-2. https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups
-3. https://www.group-ib.com/resources/knowledge-hub/account-takeover/
-4. https://stripe.com/gb/resources/more/account-takeover-fraud-explained
-5. https://docs.stripe.com/treasury/connect/fraud-guide?locale=en-GB#fraud-control-layers
-6. https://attack.mitre.org/techniques/T1566/
-7. https://csrc.nist.gov/glossary/term/malware
-8. https://github.com/OWASP/www-project-automated-threats-to-web-applications/blob/14da2ff2ca1f430b8c9d8742396fbc433a7240e6/assets/oats/EN/OAT-008_Credential_Stuffing.md
-9. https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/bg_23andme_250617/
-10. https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/06/23andme-fined-for-failing-to-protect-uk-users-genetic-data/?utm_source=chatgpt.com
-11. https://csrc.nist.gov/glossary/term/mitm
-12. https://csrc.nist.gov/glossary/term/session_hijack_attack
-13. https://github.com/OWASP/www-project-automated-threats-to-web-applications/blob/14da2ff2ca1f430b8c9d8742396fbc433a7240e6/assets/oats/EN/OAT-007_Credential_Cracking.md
-14. https://blog.qualys.com/vulnerabilities-threat-research/2024/10/20/unmasking-lumma-stealer-analyzing-deceptive-tactics-with-fake-captcha
-15. https://www.huntress.com/threat-library/malware/lumma-stealer
-16. https://stripe.com/ie/radar
-17. http://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html#purpose
+1. [Stripe — Manage fraud with Issuing controls and tools](https://docs.stripe.com/issuing/manage-fraud)
+2. [Stripe — Fraud at AI startups](https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups)
+3. [Group-IB — Account takeover](https://www.group-ib.com/resources/knowledge-hub/account-takeover/)
+4. [Stripe — Account takeover fraud explained](https://stripe.com/gb/resources/more/account-takeover-fraud-explained)
+5. [Stripe — Treasury fraud guide](https://docs.stripe.com/treasury/connect/fraud-guide?locale=en-GB#fraud-control-layers)
+6. [MITRE ATT&CK — Phishing (T1566)](https://attack.mitre.org/techniques/T1566/)
+7. [NIST — Malware glossary](https://csrc.nist.gov/glossary/term/malware)
+8. [OWASP — Credential Stuffing](https://github.com/OWASP/www-project-automated-threats-to-web-applications/blob/14da2ff2ca1f430b8c9d8742396fbc433a7240e6/assets/oats/EN/OAT-008_Credential_Stuffing.md)
+9. [Privacy Commissioner of Canada — 23andMe investigation](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/bg_23andme_250617/)
+10. [UK ICO — 23andMe fine](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/06/23andme-fined-for-failing-to-protect-uk-users-genetic-data/?utm_source=chatgpt.com)
+11. [NIST — Man-in-the-middle glossary](https://csrc.nist.gov/glossary/term/mitm)
+12. [NIST — Session Hijack Attack glossary](https://csrc.nist.gov/glossary/term/session_hijack_attack)
+13. [OWASP — Credential Cracking](https://github.com/OWASP/www-project-automated-threats-to-web-applications/blob/14da2ff2ca1f430b8c9d8742396fbc433a7240e6/assets/oats/EN/OAT-007_Credential_Cracking.md)
+14. [Qualys — Lumma Stealer analysis](https://blog.qualys.com/vulnerabilities-threat-research/2024/10/20/unmasking-lumma-stealer-analyzing-deceptive-tactics-with-fake-captcha)
+15. [Huntress — Lumma Stealer overview](https://www.huntress.com/threat-library/malware/lumma-stealer)
+16. [Stripe Radar](https://stripe.com/ie/radar)
+17. [OWASP — Logging Cheat Sheet](http://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html#purpose)
